@@ -1,0 +1,1 @@
+https://vjudge.net/problem/SPOJ-PT07Y

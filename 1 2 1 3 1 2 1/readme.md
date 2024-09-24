@@ -1,0 +1,1 @@
+https://vjudge.net/problem/AtCoder-abc247_c
